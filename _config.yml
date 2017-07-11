@@ -2,7 +2,7 @@
 # SEO settings
 title: "Jiaming"
 title2: "space" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
+description: "Welcome to my personal blog."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://garminwu.github.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
